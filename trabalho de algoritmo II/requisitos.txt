@@ -1,0 +1,36 @@
+Tema: Desenvolvimento de uma aplicação para pesquisa de preços da cesta básica em 4 supermercados e 5 produtos.
+
+Estrutura de dados:
+
+Usar matriz [4][5] → linhas = supermercados, colunas = produtos.
+Vetor para armazenar nomes dos supermercados.
+Vetor para armazenar nomes dos produtos.
+
+Requisitos funcionais do algoritmo:
+
+Armazenar os nomes dos supermercados.
+Armazenar os nomes dos produtos.
+Ler os preços dos produtos em cada supermercado.
+Calcular a média de preço de cada produto.
+Calcular o valor total da cesta básica em cada supermercado.
+Determinar qual supermercado tem a cesta mais barata.
+
+Exemplo de tabela:
+
+Cada linha representa um supermercado com os preços dos 5 produtos, soma total e comparação.
+Também há uma linha com a média de cada produto.
+
+Observações:
+
+Trabalho em grupo (máx. 8 alunos, apenas um entrega).
+Incluir os nomes dos integrantes no início do código.
+
+Implementar em:
+
+JavaScript (Programiz Online Editor)
+Python (Programiz Online Interpreter)
+C++ (Programiz Online Compiler)
+
+Preferência pelo uso de funções em JS e C++.
+
+É necessário documentar minimamente o código para avaliação.
